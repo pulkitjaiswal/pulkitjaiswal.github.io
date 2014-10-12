@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://pulkitjaiswal.github.io/writings/sitemap.xml 
