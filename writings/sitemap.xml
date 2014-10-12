@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post/</loc>
+    
+    <lastmod>2014-10-13T04:01:11+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title/</loc>
     
     <lastmod>2014-10-13T02:44:59+08:00</lastmod>
@@ -13,14 +21,14 @@
   
   <url>
     <loc>http://pulkitjaiswal.github.io/writings/blog/archives/</loc>
-    <lastmod>2014-10-13T02:49:43+08:00</lastmod>
+    <lastmod>2014-10-13T04:06:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://pulkitjaiswal.github.io/writings/</loc>
-    <lastmod>2014-10-13T02:49:43+08:00</lastmod>
+    <lastmod>2014-10-13T04:06:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
