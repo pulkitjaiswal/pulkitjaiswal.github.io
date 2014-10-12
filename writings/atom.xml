@@ -1,33 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://pulkitjaiswal.github.io/writings/atom.xml" rel="self"/>
-  <link href="http://pulkitjaiswal.github.io/writings/"/>
-  <updated>2014-10-13T06:42:51+08:00</updated>
-  <id>http://pulkitjaiswal.github.io/writings/</id>
-  <author>
-    <name><![CDATA[Your Name]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[new post]]></title>
-    <link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post/"/>
-    <updated>2014-10-13T04:01:11+08:00</updated>
-    <id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[title]]></title>
-    <link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title/"/>
-    <updated>2014-10-13T02:44:59+08:00</updated>
-    <id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title</id>
-    <content type="html"><![CDATA[<p>Hello world</p>
-]]></content>
-  </entry>
-  
+	<title><![CDATA[My Octopress Blog]]></title>
+	<link href="http://pulkitjaiswal.github.io/writings/atom.xml" rel="self"/>
+	<link href="http://pulkitjaiswal.github.io/writings/"/>
+	<updated>2014-10-13T07:01:31+08:00</updated>
+	<id>http://pulkitjaiswal.github.io/writings/</id>
+	<author>
+		<name><![CDATA[Your Name]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
+
+	
+	<entry>
+		
+			<title type="html"><![CDATA[new post]]></title>
+		
+		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post/"/>
+		<updated>2014-10-13T04:01:11+08:00</updated>
+		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[title]]></title>
+		
+		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title/"/>
+		<updated>2014-10-13T02:44:59+08:00</updated>
+		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Hello world</p>
+]]>
+		</content>
+	</entry>
+	
 </feed>
