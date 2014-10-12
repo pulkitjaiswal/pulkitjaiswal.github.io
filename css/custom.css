@@ -67,7 +67,7 @@ border-bottom: 1px solid #000;
 
 #mac-menu .nav>li{
 width: 45px;
-text-align: center;	
+text-align: center;
 }
 #mac-menu .navbar-nav>li>a{
 padding: 4px;
@@ -119,4 +119,8 @@ color: #000;
 
 .icon_title:hover, .icon_title:focus{
 text-decoration: none;
+}
+
+.big-video-control-container{
+  display:none;
 }
