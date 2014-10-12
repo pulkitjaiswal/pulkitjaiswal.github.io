@@ -146,5 +146,5 @@ $('.open #apple-menu-icon').attr("src",'images/apple-logo_h.png');
 $(function() {
     var BV = new $.BigVideo();
     BV.init();
-    BV.show('http://vimeo.com/8977355/download?t=1385794044&v=14750424&s=cfc0f7e19125a85c163d981f35856419');
+    BV.show('http://vimeo.com/14682961/download?t=1413153184&v=27518077&s=527f38bb84cbffe127d21141ff7ef460');
 });
