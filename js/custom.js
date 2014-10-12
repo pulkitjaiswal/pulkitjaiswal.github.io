@@ -146,5 +146,5 @@ $('.open #apple-menu-icon').attr("src",'images/apple-logo_h.png');
 $(function() {
     var BV = new $.BigVideo();
     BV.init();
-    BV.show('../js/vid.mp4');
+    BV.show('../media/vid.mp4');
 });
