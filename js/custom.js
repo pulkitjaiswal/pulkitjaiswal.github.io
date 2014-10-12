@@ -71,7 +71,7 @@ $('#blog_icon').click(function(){
 });
 
 $('#blog_icon').dblclick(function(){
-	window.open("http://pulkitjaiswal.com",'_blank');
+	window.open("http://pulkitjaiswal.github.io/blog",'_blank');
 });
 
 $(document).mouseup(function (e)
