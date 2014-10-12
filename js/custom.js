@@ -71,7 +71,7 @@ $('#blog_icon').click(function(){
 });
 
 $('#blog_icon').dblclick(function(){
-	window.open("http://pulkitjaiswal.github.io/blog",'_blank');
+	window.open("http://pulkitjaiswal.github.io/writings",'_blank');
 });
 
 $(document).mouseup(function (e)
@@ -146,5 +146,5 @@ $('.open #apple-menu-icon').attr("src",'images/apple-logo_h.png');
 $(function() {
     var BV = new $.BigVideo();
     BV.init();
-    BV.show('http://vimeo.com/14682961/download?t=1413153184&v=27518077&s=527f38bb84cbffe127d21141ff7ef460');
+    BV.show('../js/vid.mp4');
 });
