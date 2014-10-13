@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: learned | My Octopress Blog]]></title>
+  <title><![CDATA[Category: learned | Pulkit Jaiswal's blog]]></title>
   <link href="http://pulkitjaiswal.github.io/writings/blog/categories/learned/atom.xml" rel="self"/>
   <link href="http://pulkitjaiswal.github.io/writings/"/>
-  <updated>2014-10-13T20:05:43+08:00</updated>
+  <updated>2014-10-13T20:10:06+08:00</updated>
   <id>http://pulkitjaiswal.github.io/writings/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Pulkit Jaiswal]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,7 @@
     <link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post/"/>
     <updated>2014-10-13T19:26:41+08:00</updated>
     <id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post</id>
-    <content type="html"><![CDATA[<p>Turns out, this was an outcome of a mistake I made during initializing my Github repository. When initializing github&rsquo;s remote (origin), make sure to use SSH clone URL instead of using the normal URL. You can find your SSH URl by simply visiting your repository&rsquo;s github page. It will be of the form <code>git@github.com:username/repository-name.git.</p>
+    <content type="html"><![CDATA[<p>Turns out, this was an outcome of a mistake I made during initializing my Github repository. When initializing github&rsquo;s remote (origin), make sure to use SSH clone URL instead of using the normal URL. You can find your SSH URl by simply visiting your repository&rsquo;s github page. It will be of the form <code>git@github.com:username/repository-name.git</code>.</p>
 ]]></content>
   </entry>
   
