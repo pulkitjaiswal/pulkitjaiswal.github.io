@@ -182,6 +182,7 @@
 
 		function setUpAutoPlay() {
 			player.play();
+			player.currentTime(30);
 			settings.container.off('click',setUpAutoPlay);
 		}
 
@@ -205,7 +206,7 @@
 				});
 				doLoop = true;
 			} else {
-				$('#big-video-control-container').css('display','block');
+				$('#big-video-control-container').css('display','none');
 				player.ready(function(){
 					player.volume(defaultVolume);
 				});
@@ -252,7 +253,6 @@
 					videoTechOrder = ['flash', 'html5'];
 				}
 
-				player.currentTime(30);
 				player = videojs(vidEl.substr(1), {
 					controls:false,
 					autoplay:true,
