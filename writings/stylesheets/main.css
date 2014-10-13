@@ -5,3 +5,11 @@ padding-bottom: 2em;
 width: 600px;
 margin: auto;
 }
+
+
+article footer {
+text-align: center;
+padding: 1em 0;
+border-bottom: 1px solid #dfdfdf;
+border-top: 1px solid #dfdfdf;
+}
