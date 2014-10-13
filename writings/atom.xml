@@ -4,7 +4,7 @@
 	<title><![CDATA[My Octopress Blog]]></title>
 	<link href="http://pulkitjaiswal.github.io/writings/atom.xml" rel="self"/>
 	<link href="http://pulkitjaiswal.github.io/writings/"/>
-	<updated>2014-10-13T07:01:31+08:00</updated>
+	<updated>2014-10-13T18:34:07+08:00</updated>
 	<id>http://pulkitjaiswal.github.io/writings/</id>
 	<author>
 		<name><![CDATA[Your Name]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Cracked: How To Bundle &amp; Run Terminal Commands]]></title>
+		
+		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/cracked-how-to-bundle-and-run-terminal-commands/"/>
+		<updated>2014-10-13T18:33:20+08:00</updated>
+		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/cracked-how-to-bundle-and-run-terminal-commands</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
