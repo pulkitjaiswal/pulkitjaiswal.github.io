@@ -4,7 +4,7 @@
 	<title><![CDATA[My Octopress Blog]]></title>
 	<link href="http://pulkitjaiswal.github.io/writings/atom.xml" rel="self"/>
 	<link href="http://pulkitjaiswal.github.io/writings/"/>
-	<updated>2014-10-13T19:16:11+08:00</updated>
+	<updated>2014-10-13T19:19:53+08:00</updated>
 	<id>http://pulkitjaiswal.github.io/writings/</id>
 	<author>
 		<name><![CDATA[Your Name]]></name>
@@ -15,10 +15,10 @@
 	
 	<entry>
 		
-			<title type="html"><![CDATA[Cracked: How To Bundle &amp; Run Terminal Commands]]></title>
+			<title type="html"><![CDATA[Cracked How To Bundle And Run Terminal Commands]]></title>
 		
 		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/cracked-how-to-bundle-and-run-terminal-commands/"/>
-		<updated>2014-10-13T18:33:20+08:00</updated>
+		<updated>2014-10-13T00:00:00+08:00</updated>
 		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/cracked-how-to-bundle-and-run-terminal-commands</id>
 		<content type="html">
 			<![CDATA[
@@ -39,42 +39,6 @@
 
 <p>3) In order to run the command bundle enter
     <code> ./file.sh</code></p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[new post]]></title>
-		
-		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post/"/>
-		<updated>2014-10-13T04:01:11+08:00</updated>
-		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[title]]></title>
-		
-		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title/"/>
-		<updated>2014-10-13T02:44:59+08:00</updated>
-		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Hello world</p>
 ]]>
 		</content>
 	</entry>
