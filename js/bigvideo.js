@@ -129,6 +129,7 @@
 
 			// hide until playVideo
 			$('#big-video-control-container').css('display','none');
+			player.currentTime(30);
 
 			// add events
 			$('#big-video-control-track').slider({
@@ -182,7 +183,6 @@
 
 		function setUpAutoPlay() {
 			player.play();
-			player.currentTime(30);
 			settings.container.off('click',setUpAutoPlay);
 		}
 
