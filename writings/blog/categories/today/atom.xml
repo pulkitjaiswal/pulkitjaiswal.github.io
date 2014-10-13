@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: today | My Octopress Blog]]></title>
+  <link href="http://pulkitjaiswal.github.io/writings/blog/categories/today/atom.xml" rel="self"/>
+  <link href="http://pulkitjaiswal.github.io/writings/"/>
+  <updated>2014-10-13T20:05:43+08:00</updated>
+  <id>http://pulkitjaiswal.github.io/writings/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cracked: Github keeps asking for username and password in terminal]]></title>
+    <link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post/"/>
+    <updated>2014-10-13T19:26:41+08:00</updated>
+    <id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post</id>
+    <content type="html"><![CDATA[<p>Turns out, this was an outcome of a mistake I made during initializing my Github repository. When initializing github&rsquo;s remote (origin), make sure to use SSH clone URL instead of using the normal URL. You can find your SSH URl by simply visiting your repository&rsquo;s github page. It will be of the form <code>git@github.com:username/repository-name.git.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cracked: how to bundle and run terminal commands]]></title>
+    <link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title/"/>
+    <updated>2014-10-13T02:44:59+08:00</updated>
+    <id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title</id>
+    <content type="html"><![CDATA[<p>I needed to figure out a clever to way to deploy my octopress blog posts by running just one command.</p>
+
+<p>Here&rsquo;s how I did it:</p>
+
+<p>1) Open your favorite text editor and enter your terminal commands (one per line). Save it with a .sh extension. Let&rsquo;s call it file.sh.</p>
+
+<p>   <img class="center" src="/images/terminal_bundle.png"></p>
+
+<p>2) Open your terminal and enter
+    <code>sudo chmod 700 file.sh</code></p>
+
+<p>3) In order to run the command bundle enter
+    <code> ./file.sh</code></p>
+]]></content>
+  </entry>
+  
+</feed>
