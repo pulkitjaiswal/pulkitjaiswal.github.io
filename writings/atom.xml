@@ -4,7 +4,7 @@
 	<title><![CDATA[My Octopress Blog]]></title>
 	<link href="http://pulkitjaiswal.github.io/writings/atom.xml" rel="self"/>
 	<link href="http://pulkitjaiswal.github.io/writings/"/>
-	<updated>2014-10-13T19:28:24+08:00</updated>
+	<updated>2014-10-13T19:56:01+08:00</updated>
 	<id>http://pulkitjaiswal.github.io/writings/</id>
 	<author>
 		<name><![CDATA[Your Name]]></name>
@@ -45,41 +45,11 @@
 	
 	<entry>
 		
-			<title type="html"><![CDATA[title]]></title>
+			<title type="html"><![CDATA[Cracked How To Bundle And Run Terminal Commands]]></title>
 		
 		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title/"/>
 		<updated>2014-10-13T02:44:59+08:00</updated>
 		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/title</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>I needed to figure out a clever to way to deploy my octopress blog posts by running just one command.</p>
-
-<p>Here&rsquo;s how I did it:</p>
-
-<p>1) Open your favorite text editor and enter your terminal commands (one per line). Save it with a .sh extension. Let&rsquo;s call it file.sh.</p>
-
-<p>   <img class="center" src="http://pulkitjaiswal.github.io/writings/images/terminal_bundle.png"></p>
-
-<p>2) Open your terminal and enter
-    <code>sudo chmod 700 file.sh</code></p>
-
-<p>3) In order to run the command bundle enter
-    <code> ./file.sh</code></p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Cracked How To Bundle And Run Terminal Commands]]></title>
-		
-		<link href="http://pulkitjaiswal.github.io/writings/blog/2014/10/13/cracked-how-to-bundle-and-run-terminal-commands/"/>
-		<updated>2014-10-13T00:00:00+08:00</updated>
-		<id>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/cracked-how-to-bundle-and-run-terminal-commands</id>
 		<content type="html">
 			<![CDATA[
 				
