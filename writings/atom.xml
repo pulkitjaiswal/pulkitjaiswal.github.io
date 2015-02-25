@@ -4,7 +4,7 @@
 	<title><![CDATA[Pulkit Jaiswal's blog]]></title>
 	<link href="http://pulkitjaiswal.github.io/writings/atom.xml" rel="self"/>
 	<link href="http://pulkitjaiswal.github.io/writings/"/>
-	<updated>2015-02-25T13:02:20+08:00</updated>
+	<updated>2015-02-25T22:21:28+08:00</updated>
 	<id>http://pulkitjaiswal.github.io/writings/</id>
 	<author>
 		<name><![CDATA[Pulkit Jaiswal]]></name>
@@ -26,7 +26,7 @@
 					<p></p>
 				
 			]]>
-			<![CDATA[<p><strong>&ldquo;Any application that can be written in Javascript will be eventually written in Javascript&rdquo; - [Atwoods Law]</strong> (<a href="http://blog.codinghorror.com/the-principle-of-least-power/">http://blog.codinghorror.com/the-principle-of-least-power/</a>)</p>
+			<![CDATA[<h2>&ldquo;Any application that can be written in Javascript will be eventually written in Javascript&rdquo; - [Atwoods Law] (<a href="http://blog.codinghorror.com/the-principle-of-least-power/">http://blog.codinghorror.com/the-principle-of-least-power/</a>)</h2>
 
 <p>Without a doubt, JS is becoming the dominant language of the web. It didn&rsquo;t require much thinking to decide that Garuda Robotics will utilize a javascript based stack. After some searching, we decided to go with <a href="http://linnovate.com">Linnovate&rsquo;s</a> <a href="http://mean.io">MEAN.IO</a>. Linnovate is a web development services business in Israel and they are the guys behing MEAN.IO. Since inception, they&rsquo;re getting 100s of downloads a day and have an increasingly growing community. They&rsquo;ve become so popular now that Google Cloud has a Click to Deploy feature for MEAN.IO apps.</p>
 
@@ -40,7 +40,8 @@ CORE PACKAGES - Articles, Users, System, CLI, Themes</p>
 
 <p><code> mean init bar </code>
 <code> cd bar &amp;&amp; sudo npm install </code>
-really</p>
+<code> bower install</code>
+<code> grunt </code></p>
 ]]>
 		</content>
 	</entry>
