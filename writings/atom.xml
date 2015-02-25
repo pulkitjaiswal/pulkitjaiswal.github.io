@@ -4,7 +4,7 @@
 	<title><![CDATA[Pulkit Jaiswal's blog]]></title>
 	<link href="http://pulkitjaiswal.github.io/writings/atom.xml" rel="self"/>
 	<link href="http://pulkitjaiswal.github.io/writings/"/>
-	<updated>2015-02-25T11:35:10+08:00</updated>
+	<updated>2015-02-25T12:58:43+08:00</updated>
 	<id>http://pulkitjaiswal.github.io/writings/</id>
 	<author>
 		<name><![CDATA[Pulkit Jaiswal]]></name>
@@ -39,7 +39,8 @@ CORE PACKAGES - Articles, Users, System, CLI, Themes</p>
 <p>Some of the sites built with MEAN.IO can be seen <a href="http://builtwith.mean.io">here</a></p>
 
 <p><code> mean init bar </code>
-<code> cd bar &amp;&amp; sudo npm install </code></p>
+<code> cd bar &amp;&amp; sudo npm install </code>
+really</p>
 ]]>
 		</content>
 	</entry>
