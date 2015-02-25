@@ -4,7 +4,7 @@
   <title><![CDATA[Category: whatilearnedtoday | Pulkit Jaiswal's blog]]></title>
   <link href="http://pulkitjaiswal.github.io/writings/blog/categories/whatilearnedtoday/atom.xml" rel="self"/>
   <link href="http://pulkitjaiswal.github.io/writings/"/>
-  <updated>2015-02-25T22:21:28+08:00</updated>
+  <updated>2015-02-25T22:21:38+08:00</updated>
   <id>http://pulkitjaiswal.github.io/writings/</id>
   <author>
     <name><![CDATA[Pulkit Jaiswal]]></name>
@@ -29,6 +29,11 @@ CORE PACKAGES - Articles, Users, System, CLI, Themes</p>
 <p>In MEAN.IO, everything is a package. MEAN.IO provides some core packages important for the application. You can create your custom packages as well relevant to your product.</p>
 
 <p>Some of the sites built with MEAN.IO can be seen <a href="http://builtwith.mean.io">here</a></p>
+
+<p>The advantages are great and are as follows:
+• A single language is used throughout the application
+• All the parts of the application can support and often enforce the use of the MVC architecture
+• Serialization and deserialization of data structures is no longer needed because data marshaling is done using JSON objects</p>
 
 <p><code> mean init bar </code>
 <code> cd bar &amp;&amp; sudo npm install </code>
