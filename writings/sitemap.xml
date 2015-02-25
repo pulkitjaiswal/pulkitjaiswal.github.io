@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://pulkitjaiswal.github.io/writings/blog/2015/02/25/mean-dot-io-learnings/</loc>
+    
+    <lastmod>2015-02-25T11:10:46+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://pulkitjaiswal.github.io/writings/blog/2014/10/13/new-post/</loc>
     
     <lastmod>2014-10-13T19:26:41+08:00</lastmod>
@@ -21,14 +29,14 @@
   
   <url>
     <loc>http://pulkitjaiswal.github.io/writings/blog/archives/</loc>
-    <lastmod>2014-10-13T20:13:06+08:00</lastmod>
+    <lastmod>2015-02-25T11:35:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://pulkitjaiswal.github.io/writings/</loc>
-    <lastmod>2014-10-13T20:13:06+08:00</lastmod>
+    <lastmod>2015-02-25T11:35:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
